@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1
 
-Cororna Warrior Bot - The Four wheeler robot can also deliver essentials to patients such as food, medicine and any medical accessories without the direct contact of individuals.
+Cororna Warrior Bot - The Four wheeler robot can also deliver essentials to patients such as food, medicine and any medical accessories without the direct contact of individual.
 
 ## Project 2
 
